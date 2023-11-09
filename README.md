@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aryaguna-abi-rafdi-yasa-646ab221a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryaguna abi rafdi yasa" height="30" width="40" /></a>
-<a href="https://fb.com/aryaguna abi rafdi yasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aryaguna abi rafdi yasa" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rfdyasa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aryaguna abi rafdi yasa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
