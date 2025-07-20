@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aryaguna abi rafdi yasa</h1>
-<h3 align="center">students who are learning</h3>
+<h1 align="center">Hi 👋, I'm Aryaguna Abi Rafdi Yasa</h1>
+<h3 align="center">People Who Start Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafdi03&label=Profile%20views&color=0e75b6&style=flat" alt="rafdi03" /> </p>
 
