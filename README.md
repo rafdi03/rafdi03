@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rafdi and I'm a Beginer, from boat</h2>
+<h2 align="left">Hi 👋! My name is Rafdi and I'm a Beginner, from boat</h2>
 
 ###
 
@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbt/dbt-original.svg" height="30" alt="dbt logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" alt="linux logo" />
 </div>
 
 ###
