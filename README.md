@@ -56,6 +56,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/GANTI_DENGAN_USERNAME_KAMU/GANTI_DENGAN_USERNAME_KAMU/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rafdi03/rafdi03/output/snake.svg" alt="Snake animation" />
 
 ###
