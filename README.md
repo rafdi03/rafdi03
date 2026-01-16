@@ -8,11 +8,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rafdi03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
